@@ -81,9 +81,9 @@ build/app/outputs/flutter-apk/app-debug.apk
 ## 🧓‍⚕️ Author
 
 **Alexa Serrafona Juliet**
-Informatics Engineering, UIN Syarif Hidayatullah Jakarta
-📧 *serrafona@gmail.com
-💻 *Newbie in coding! <3
+*Informatics Engineering, UIN Syarif Hidayatullah Jakarta
+*📧 *serrafona@gmail.com
+*💻 *Newbie in coding! <3
 
 ---
 
